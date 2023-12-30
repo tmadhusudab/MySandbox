@@ -90,7 +90,7 @@ table 50110 customerDetails
 
     keys
     {
-        key(key1; CustomerID)
+        key(key1; No)
         {
             Clustered = true;
         }
