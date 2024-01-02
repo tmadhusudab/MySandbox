@@ -4,12 +4,9 @@
 
 namespace DefaultPublisher.MySandbox;
 
-using Microsoft.Sales.Customer;
+// using Microsoft.Sales.Customer;
 
-pageextension 50100 CustomerListExt extends "Customer List"
-{
-    trigger OnOpenPage();
-    begin
-        Message('App published: Hello world');
-    end;
-}
+// pageextension 50100 CustomerListExt extends "Customer List"
+// {
+
+// }

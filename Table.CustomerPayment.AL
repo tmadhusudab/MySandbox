@@ -9,7 +9,7 @@ table 50106 CustomerPaymentOption1
         }
         field(9; PaymentMethod; Option)
         {
-            OptionMembers = cash,UPI,Card;
+            OptionMembers = Cash,UPI,Card;
         }
         field(10; "CreditLimit"; Decimal)
         {
